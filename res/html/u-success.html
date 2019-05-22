@@ -1,0 +1,12 @@
+<p>Your mask is
+	<a href="<!-- TMPL_VAR protocol --><!-- TMPL_VAR hostname --><!-- TMPL_VAR depth -->u/<!-- TMPL_VAR alias-name -->">over here.</a></p>
+
+<h3><!-- TMPL_VAR target --></h3>
+<h3>↓</h3>
+<h3><!-- TMPL_VAR hostname --><!-- TMPL_VAR depth -->u/<!-- TMPL_VAR alias-name --></h3>
+
+<!-- TMPL_IF onion-hostname -->
+<h3><!-- TMPL_VAR onion-hostname --><!-- TMPL_VAR depth -->u/<!-- TMPL_VAR alias-name --></h3>
+<!-- /TMPL_IF -->
+
+<img src="<!-- TMPL_VAR depth -->r/mask_win-big.png">

@@ -1,0 +1,68 @@
+
+(firefox:1809): Gtk-WARNING **: 12:54:17.007: Theme parsing error: gtk-keys.css:12:4: Failed to parse binding set.
+
+(firefox:1809): Gtk-WARNING **: 12:54:17.007: Theme parsing error: gtk-keys.css:12:4: Expected semicolon
+
+(firefox:1809): Gtk-WARNING **: 12:54:17.009: Theme parsing error: gtk-keys.css:14:4: Failed to parse binding set.
+
+(firefox:1809): Gtk-WARNING **: 12:54:17.010: Theme parsing error: gtk-keys.css:14:4: Expected semicolon
+
+(firefox:1809): Gtk-WARNING **: 12:54:17.012: Theme parsing error: gtk-keys.css:16:4: Failed to parse binding set.
+
+(firefox:1809): Gtk-WARNING **: 12:54:17.013: Theme parsing error: gtk-keys.css:16:4: Expected semicolon
+
+(firefox:1809): Gtk-WARNING **: 12:54:17.014: Theme parsing error: gtk-keys.css:18:4: Failed to parse binding set.
+
+(firefox:1809): Gtk-WARNING **: 12:54:17.016: Theme parsing error: gtk-keys.css:18:4: Expected semicolon
+
+(firefox:1809): Gtk-WARNING **: 12:54:17.017: Theme parsing error: gtk-keys.css:20:4: Failed to parse binding set.
+
+(firefox:1809): Gtk-WARNING **: 12:54:17.019: Theme parsing error: gtk-keys.css:20:4: Expected semicolon
+
+(firefox:1809): Gtk-WARNING **: 12:54:17.020: Theme parsing error: gtk-keys.css:26:4: Failed to parse binding set.
+
+(firefox:1809): Gtk-WARNING **: 12:54:17.022: Theme parsing error: gtk-keys.css:26:4: Expected semicolon
+
+(firefox:1809): Gtk-WARNING **: 12:54:17.023: Theme parsing error: gtk-keys.css:28:4: Failed to parse binding set.
+
+(firefox:1809): Gtk-WARNING **: 12:54:17.025: Theme parsing error: gtk-keys.css:28:4: Expected semicolon
+
+(firefox:1809): Gtk-WARNING **: 12:54:17.027: Theme parsing error: gtk-keys.css:33:18: The 'gtk-key-bindings' property has been renamed to '-gtk-key-bindings'
+
+(firefox:1809): Gtk-WARNING **: 12:54:17.028: Theme parsing error: gtk-keys.css:37:18: The 'gtk-key-bindings' property has been renamed to '-gtk-key-bindings'
+
+(firefox:1809): Gtk-WARNING **: 12:54:17.029: Theme parsing error: gtk-keys.css:41:18: The 'gtk-key-bindings' property has been renamed to '-gtk-key-bindings'
+
+(/usr/local/lib/firefox/firefox:16947): Gtk-WARNING **: 17:54:18.347: Theme parsing error: gtk-keys.css:12:4: Failed to parse binding set.
+
+(/usr/local/lib/firefox/firefox:16947): Gtk-WARNING **: 17:54:18.349: Theme parsing error: gtk-keys.css:12:4: Expected semicolon
+
+(/usr/local/lib/firefox/firefox:16947): Gtk-WARNING **: 17:54:18.350: Theme parsing error: gtk-keys.css:14:4: Failed to parse binding set.
+
+(/usr/local/lib/firefox/firefox:16947): Gtk-WARNING **: 17:54:18.351: Theme parsing error: gtk-keys.css:14:4: Expected semicolon
+
+(/usr/local/lib/firefox/firefox:16947): Gtk-WARNING **: 17:54:18.353: Theme parsing error: gtk-keys.css:16:4: Failed to parse binding set.
+
+(/usr/local/lib/firefox/firefox:16947): Gtk-WARNING **: 17:54:18.354: Theme parsing error: gtk-keys.css:16:4: Expected semicolon
+
+(/usr/local/lib/firefox/firefox:16947): Gtk-WARNING **: 17:54:18.356: Theme parsing error: gtk-keys.css:18:4: Failed to parse binding set.
+
+(/usr/local/lib/firefox/firefox:16947): Gtk-WARNING **: 17:54:18.357: Theme parsing error: gtk-keys.css:18:4: Expected semicolon
+
+(/usr/local/lib/firefox/firefox:16947): Gtk-WARNING **: 17:54:18.359: Theme parsing error: gtk-keys.css:20:4: Failed to parse binding set.
+
+(/usr/local/lib/firefox/firefox:16947): Gtk-WARNING **: 17:54:18.360: Theme parsing error: gtk-keys.css:20:4: Expected semicolon
+
+(/usr/local/lib/firefox/firefox:16947): Gtk-WARNING **: 17:54:18.361: Theme parsing error: gtk-keys.css:26:4: Failed to parse binding set.
+
+(/usr/local/lib/firefox/firefox:16947): Gtk-WARNING **: 17:54:18.363: Theme parsing error: gtk-keys.css:26:4: Expected semicolon
+
+(/usr/local/lib/firefox/firefox:16947): Gtk-WARNING **: 17:54:18.364: Theme parsing error: gtk-keys.css:28:4: Failed to parse binding set.
+
+(/usr/local/lib/firefox/firefox:16947): Gtk-WARNING **: 17:54:18.366: Theme parsing error: gtk-keys.css:28:4: Expected semicolon
+
+(/usr/local/lib/firefox/firefox:16947): Gtk-WARNING **: 17:54:18.367: Theme parsing error: gtk-keys.css:33:18: The 'gtk-key-bindings' property has been renamed to '-gtk-key-bindings'
+
+(/usr/local/lib/firefox/firefox:16947): Gtk-WARNING **: 17:54:18.369: Theme parsing error: gtk-keys.css:37:18: The 'gtk-key-bindings' property has been renamed to '-gtk-key-bindings'
+
+(/usr/local/lib/firefox/firefox:16947): Gtk-WARNING **: 17:54:18.370: Theme parsing error: gtk-keys.css:41:18: The 'gtk-key-bindings' property has been renamed to '-gtk-key-bindings'

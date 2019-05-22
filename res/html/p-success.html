@@ -1,0 +1,13 @@
+<p>Your coin's
+	<a href="<!-- TMPL_VAR hostname --><!-- TMPL_VAR depth -->u/<!-- TMPL_VAR filename -->">over here.</a></p>
+
+<h3><!-- TMPL_VAR hostname --><!-- TMPL_VAR depth -->u/<!-- TMPL_VAR filename --></h3>
+<!-- TMPL_IF onion-hostname -->
+<h3><!-- TMPL_VAR onion-hostname --><!-- TMPL_VAR depth -->u/<!-- TMPL_VAR filename --></h3>
+<!-- /TMPL_IF -->
+
+<h5><!-- TMPL_VAR ipfs-hostname -->/ipfs/<!-- TMPL_VAR hash --></h5>
+<h5>https://ipfs.io/ipfs/<!-- TMPL_VAR hash --></h5>
+
+
+<img src="<!-- TMPL_VAR depth -->r/coin_win-big.png">
