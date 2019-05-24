@@ -19,7 +19,7 @@ USAGE
 Just use `quicklisp` (pop this in your "~/quicklisp/local-projects/",
 and you're good).
 There is one thing that isn't in quicklisp that this needs, though:
-	* ipfs-gno (https://git.eunichx.us/ipfs-gno.git)
+	* cl-ipfs-api² (https://git.eunichx.us/cl-ipfs-api2.git)
 
 Once you've loaded :distribute-coin into your REPL, just run:
 	(distribute-coin:server)
