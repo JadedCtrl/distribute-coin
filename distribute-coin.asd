@@ -1,7 +1,7 @@
 (defsystem "distribute-coin"
-	   :version "0.1"
-	   :author "Jaidyn Ann <jadedctrl@teknik.io>"
-           :license "Cooperative Software License"
+	   :version "0.11"
+	   :author "Jaidyn Ann <jadedctrl@posteo.at>"
+           :license "GNU AGPLv3"
 	   :depends-on ("hunchentoot" "translate" "html-template" "cl-ipfs-api2")
 	   :components ((:module "src"
 			   :components

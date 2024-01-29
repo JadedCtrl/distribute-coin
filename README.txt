@@ -19,7 +19,7 @@ USAGE
 Just use `quicklisp` (pop this in your "~/quicklisp/local-projects/",
 and you're good).
 There is one thing that isn't in quicklisp that this needs, though:
-	* cl-ipfs-api² (https://git.eunichx.us/cl-ipfs-api2.git)
+	* cl-ipfs-api² (https://hak.xwx.moe/jadedctrl/cl-ipfs-api2)
 
 Once you've loaded :distribute-coin into your REPL, just run:
 	(distribute-coin:server)
@@ -32,6 +32,6 @@ on usage of #'server.
 BORING STUFF
 ----------------------------------------
 License is AGPLv3-- check COPYING.txt.
-Author is Jaidyn Ann <jadedctrl@teknik.io>
-Permanent instance over at https://coinsh.red
-Sauce is at https://git.eunichx.us/distribute-coin.git
+Author is Jaidyn Ann <jadedctrl@posteo.at>
+Flagship instance was https://coinsh.red
+Sauce is at https://hak.xwx.moe/jadedctrl/distribute-coin
